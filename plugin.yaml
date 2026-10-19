@@ -1,0 +1,9 @@
+name: pending-queue-monitor
+version: 0.1.0
+description: "Read-only Hermes Desktop view of pending memory and skill write approvals."
+author: "Arden"
+license: MIT
+requires_hermes: ">=0.22.2"
+tags: [desktop, dashboard, approvals]
+provides_tools: []
+provides_hooks: []

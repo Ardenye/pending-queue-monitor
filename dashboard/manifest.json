@@ -1,0 +1,12 @@
+{
+  "name": "pending-queue-monitor",
+  "label": "Pending Monitor",
+  "description": "Read-only pending memory and skill write approval monitor",
+  "icon": "Clock",
+  "version": "0.1.0",
+  "tab": {
+    "hidden": true
+  },
+  "entry": "plugin.js",
+  "api": "plugin_api.py"
+}
